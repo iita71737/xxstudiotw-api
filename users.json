@@ -1,11 +1,1 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "nickname": "admin",
-      "email": "root@example.com",
-      "password": "12345678",
-      "type": 1
-    }
-  ]
-}
+{"users":[{"id":1,"nickname":"admin","email":"root@example.com","password":"12345678","type":1},{"id":2,"email":"user2@example.com","password":"123456","nickname":"user2","type":0},{"id":3,"email":"user3@example.com","password":"12345","nickname":"user3","type":0}]}
